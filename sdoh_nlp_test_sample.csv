@@ -1,0 +1,101 @@
+keyword,similar keyword,similarity score
+substance abuse,substance use,1
+substance abuse,addiction,1
+substance abuse,recovery,0.95
+substance abuse,peer support,0.7
+substance abuse,opioid crisis,0.8
+substance abuse,mental health,0.5
+substance abuse,homeless,0.45
+substance abuse,support group,0.45
+substance abuse,relapse,0.65
+substance abuse,crime,0.1
+housing,homeless,0.7
+housing,shelter,0.85
+housing,transitional housing,0.9
+housing,permanent housing,0.9
+housing,food,0.6
+housing,employment,0.4
+housing,domestic violence,0.4
+housing,emergency shelter,0.8
+housing,animal shelter,0.3
+housing,utilities,0.1
+homeless,homelessness,1
+homeless,housing,0.7
+homeless,shelter,0.9
+homeless,emergency shelter,0.9
+homeless,homeless coalition,0.8
+homeless,homeless healthcare,0.7
+homeless,homeless dental,0.7
+homeless,homeless vision,0.7
+homeless,food,0.6
+homeless,employment,0.6
+transportation,vehicle,0.95
+transportation,bus,0.9
+transportation,Metrolift,0.75
+transportation,Medicaid,0.8
+transportation,transportation for medical appointment,0.7
+transportation,transportation for job interview,0.7
+transportation,public transportation,1
+transportation,transportation that allows companion pets,0.6
+transportation,primary care,0.4
+transportation,food,0.2
+medication,medication assistance,0.9
+medication,good rx,0.7
+medication,prescription,1
+medication,prescription assistance,0.9
+medication,discounted drugs,0.8
+medication,primary care,0.7
+medication,Medicare,0.7
+medication,Medicaid,0.7
+medication,uninsured,0.4
+medication,insurance,0.4
+employment,job,1
+employment,career,1
+employment,career development,0.9
+employment,clothes for interview,0.4
+employment,jon training,0.5
+employment,career coach,0.7
+employment,internship,0.5
+employment,food,0.4
+employment,housing,0.4
+employment,utility assistance,0.4
+primary care,healthcare,0.9
+primary care,PCP,0.9
+primary care,medicare,0.8
+primary care,medicaid,0.8
+primary care,specialist,0.5
+primary care,FQHC,0.95
+primary care,vision,0.7
+primary care,dental,0.7
+primary care,mental health,0.7
+primary care,screening,0.3
+mental health,behavioral health,1
+mental health,psychiatry,0.9
+mental health,counseling,0.9
+mental health,psychiatrist,0.8
+mental health,counselor,0.8
+mental health,therapy,0.6
+mental health,mental therapy,0.8
+mental health,therapist,0.6
+mental health,mood disorder,0.7
+mental health,depression,0.7
+utility,utilities,1
+utility,utility assistance,0.9
+utility,water bill,0.8
+utility,electricity bill,0.8
+utility,power bill,0.8
+utility,utility bill,0.9
+utility,clothes,0.6
+utility,shoes,0.6
+utility,backpack,0.5
+utility,basic need,0.8
+food,meals on wheels,0.8
+food,food assistance,0.9
+food,hot food,0.8
+food,food pantry,0.9
+food,food stamp,0.6
+food,SNAP,0.6
+food,emergency food assistance,0.8
+food,canned food,0.7
+food,fresh produce,0.7
+food,dry food,0.7
